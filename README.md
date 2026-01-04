@@ -1,3 +1,4 @@
 # firstproject
 This is my first my repositary
-Author :- Abdul Samad Khan
+Author :- Abdul Samad Khan (sunny)
+
